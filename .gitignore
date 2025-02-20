@@ -1,0 +1,9 @@
+src/results/*
+!src/results/2D_GM_plotuse*.npz
+model/__pycache__
+*.png
+*/LLSUB*
+embd/*
+*/.ipynb_checkpoints/*
+*/.DS_Store
+*/.ipynb_checkpoints

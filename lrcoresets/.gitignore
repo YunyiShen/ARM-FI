@@ -1,0 +1,26 @@
+# experiment results
+results/
+
+# editor junk
+*~
+
+# Sphinx documentation
+docs/_build/
+
+# Distribution / packaging
+.Python
+env/
+build/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# OS X junk
+.DS_Store
+
+coresets.egg-info/
