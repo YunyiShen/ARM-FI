@@ -3,6 +3,7 @@
 ## "Reviving The Classics: Active Reward Modeling in Large Language Model Alignment"
 
 #### Authors: Yunyi Shen*, Hao Sun*, Jean-Francois Ton. The first two authors contribute equally.
+Accepted at ICML'25.
 
 [ [Preprint](https://arxiv.org/abs/2502.04354) ]       |       [Embeddings (To be released [here](https://github.com/holarissun/RewardModelingBeyondBradleyTerry))]
 
